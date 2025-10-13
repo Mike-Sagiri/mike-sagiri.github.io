@@ -26,7 +26,7 @@ My research interest includes Robotics, Enbodied AI and Multimodal Learning, esp
 - *2025.09*: &nbsp; Our paper LagMemo: Language 3D Gaussian Splatting Memory for Multi-modal Open-vocabulary Multi-goal Visual Navigation is under review of ICRA 2026;
 - *2025.07*: &nbsp; 🎉🎉 Graduate from <a href='https://eecs.pku.edu.cn/'>EECS (Schoold of Electronics Engineering and Computer Science)</a>, as Outstanding Student of Beijing City and Peking University.
 - *2025.06*: &nbsp;🎉🎉 Our paper TerraFusion: Semi-Supervised Vision-Proprioception Fusion for Robust Terrain Classification has been accepted by RAL.
-- *2024.03*: &nbsp; Our work about <a href='https://github.com/weekgoodday/TCPOSS'>OOD Challenges in Terrain Classification</a? is under review of IROS 2024. paper <a href='https://weekgoodday.github.io/files/IROS2024_Terrain_Classification.pdf'>Can Confidence Quantification Methods Work When Facing Real-world OOD Data in Terrain Classification?</a>.
+- *2024.03*: &nbsp; Our work about <a href='https://github.com/weekgoodday/TCPOSS'>OOD Challenges in Terrain Classification</a> is under review of IROS 2024. paper <a href='https://weekgoodday.github.io/files/IROS2024_Terrain_Classification.pdf'>Can Confidence Quantification Methods Work When Facing Real-world OOD Data in Terrain Classification?</a>.
 - *2023.2 - 2023.11*： &nbsp; 🎉🎉 Participate in 2023 <a href='https://competition.igem.org/'>iGEM</a> as a member of <a href='http://2023.igem.wiki/peking'>Team Peking</a>, and won a **GOLD MEDAL**.
 
 # 📝 Publications 
