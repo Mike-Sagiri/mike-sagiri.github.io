@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a graduate student at <a href='https://sai.pku.edu.cn'> SIST (School of Intelligence Science and Technology) </a>, <a href='https://pku.edu.cn'>Peking University</a>, supervised by <a href='www.poss.pku.edu.cn'>Prof. Huijing Zhao</a>.
+I am a graduate student at <a href='https://sai.pku.edu.cn'> SIST (School of Intelligence Science and Technology) </a>, <a href='https://pku.edu.cn'>Peking University</a>, supervised by <a href='http://poss.pku.edu.cn'>Prof. Huijing Zhao</a>.
 
 My research interest includes Robotics, Enbodied AI and Multimodal Learning, especially about unstructured environment autonomous driving. Moreover, I have a passion for open-source knowledge sharing, including ROS2 development with wsl2 & docker, ssh tricks with gui (X11 & wayland), and modern cpp.
 
