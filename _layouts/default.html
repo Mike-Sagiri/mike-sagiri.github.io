@@ -3,7 +3,7 @@ layout: compress
 ---
 
 <!doctype html>
-<html lang="en" class="no-js">
+<html lang="en" class="no-js" data-lang="en">
   <head>
     {% include head.html %}
     {% include head/custom.html %}
@@ -28,6 +28,7 @@ layout: compress
     </div>
 
     {% include scripts.html %}
+    <script src="{{ '/assets/js/lang-toggle.js' | relative_url }}"></script>
 
   </body>
 </html>
