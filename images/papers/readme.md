@@ -1,0 +1,1 @@
+all paper images
