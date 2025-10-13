@@ -17,42 +17,44 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am a graduate student at <a href='https://sai.pku.edu.cn'> SIST (School of Intelligence Science and Technology) </a>, <a href='https://pku.edu.cn'>Peking University</a>, supervised by <a href='www.poss.pku.edu.cn'>Prof. Huijing Zhao</a>.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes Robotics, Enbodied AI and Multimodal Learning, especially about unstructured environment autonomous driving. Moreover, I have a passion for *digging*  *tricks* for ai research, such as ROS2 packages, ssh/waypipe and modern cpp.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.09*: &nbsp; Our paper LagMemo: Language 3D Gaussian Splatting Memory for Multi-modal Open-vocabulary Multi-goal Visual Navigation is under review of ICRA 2026;
+- *2025.07*: &nbsp; 🎉🎉 Graduate from <a href='https://eecs.pku.edu.cn/'>EECS (Schoold of Electronics Engineering and Computer Science)</a>, as Outstanding Student of Beijing City and Peking University.
+- *2025.06*: &nbsp;🎉🎉 Our paper TerraFusion: Semi-Supervised Vision-Proprioception Fusion for Robust Terrain Classification has been accepted by RAL.
+- *2024.03*: &nbsp; Our work about <a href='https://github.com/weekgoodday/TCPOSS'>OOD Challenges in Terrain Classification</a? is under review of IROS 2024. paper <a href='https://weekgoodday.github.io/files/IROS2024_Terrain_Classification.pdf'>Can Confidence Quantification Methods Work When Facing Real-world OOD Data in Terrain Classification?</a>.
+- *2023.2 - 2023.11*： &nbsp; 🎉🎉 Participate in 2023 <a href='https://competition.igem.org/'>iGEM</a> as a member of <a href='http://2023.igem.wiki/peking'>Team Peking</a>, and won a **GOLD MEDAL**.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RAL</div><img src='images/papers/terrafusion.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[TerraFusion: Semi-Supervised Vision-Proprioception Fusion for Robust Terrain Classification](https://ieeexplore.ieee.org/abstract/document/11184124)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Hongze Li**, Rui Xie, Haotian Zhou, Jianghuan Xu, Jun Zhou, Wugen Zhou, Huijing Zhao, Hongbin Zha
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.06* **Outstanding Graduate of Beijing City**.
+- *2025.06* Outstanding Graduate of Peking University.
+- *2024.12* **National Scholarship**
+- *2024.12* Pacemaker to Merit Student of Peking University.
+- *2024.04* Gold Medal of The 1st PKU Cup for Curling (第一届北大杯冰壶冠军).
+- *2023.11* Gold Medal of iGEM 2023.
+- *2023.10* Merit Student of Peking University.
+- *2023.10* The Third Prize of Peking University Scholarship.
+- *2023.06* The Third Prize of Peking University College Cup (挑战杯).
+- *2022.04* Peking University Freshman Scholarship, Second Prize. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2025.09 - (now)*, Graduate at School of Intelligence Science and Technology, Peking University.
+- *2021.09 - 2025.06*, Undergraduate at School of Electronics Engineering and Computer Science, Peking University. 
+- *2018.09 - 2021.06*, High School Student at Dongfeng High School, Shiyan City, Hubei Province, Chine.
