@@ -8,7 +8,6 @@
 # Site Settings
 title                    : "Jianghuan Xu | 许江环 | 許江環"
 description              : "Graduate student at SIST (School of Intelligence Science and Technology), Peking University"
-description_zh           : "北京大学智能学院（SIST）研究生"
 repository               : "Mike-Sagiri/mike-sagiri.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,10 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jianghuan Xu"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Jianghuan Xu"
-  bio_zh           : "许江环"
+  bio              : "许江环"
   location         : "Beijing, China"
-  location_zh      : "中国 北京"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=l843KlEAAAAJ"

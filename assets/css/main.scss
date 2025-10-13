@@ -107,20 +107,3 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
-
-html[data-lang="en"] [lang="zh"],
-html[data-lang="zh"] [lang="en"] {
-    display: none !important;
-}
-
-.masthead__lang-toggle {
-    display: flex;
-    align-items: center;
-    margin-left: auto;
-
-    button {
-        margin-left: 1rem;
-        font-size: 0.875rem;
-        padding: 0.25rem 0.75rem;
-    }
-}
