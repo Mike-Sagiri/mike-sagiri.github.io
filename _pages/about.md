@@ -38,8 +38,8 @@ Personally, my hobbies include billiards, curling, CrossFire and games of Parado
 [TerraFusion: Semi-Supervised Vision-Proprioception Fusion for Robust Terrain Classification](https://ieeexplore.ieee.org/abstract/document/11184124)
 
 **Hongze Li**, Rui Xie, Haotian Zhou, Jianghuan Xu, Jun Zhou, Wugen Zhou, Huijing Zhao, Hongbin Zha
-<span class='show_paper_citations' data='l843KlEAAAAJ:u-x6o8ySG0sC'></span>
-<span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span>
+<!-- <span class='show_paper_citations' data='l843KlEAAAAJ:u-x6o8ySG0sC'></span>
+<span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span> -->
 
 </div>
 </div>
@@ -60,4 +60,4 @@ Personally, my hobbies include billiards, curling, CrossFire and games of Parado
 # 📖 Educations
 - *2025.09 - (now)*, Graduate at School of Intelligence Science and Technology, Peking University.
 - *2021.09 - 2025.06*, Undergraduate at School of Electronics Engineering and Computer Science, Peking University. 
-- *2018.09 - 2021.06*, High School Student at Dongfeng High School, Shiyan City, Hubei Province, Chine.
+- *2018.09 - 2021.06*, High School Student at Dongfeng High School, Shiyan City, Hubei Province, China.
