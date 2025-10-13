@@ -19,8 +19,9 @@ redirect_from:
 
 I am a graduate student at <a href='https://sai.pku.edu.cn'> SIST (School of Intelligence Science and Technology) </a>, <a href='https://pku.edu.cn'>Peking University</a>, supervised by <a href='www.poss.pku.edu.cn'>Prof. Huijing Zhao</a>.
 
-My research interest includes Robotics, Enbodied AI and Multimodal Learning, especially about unstructured environment autonomous driving. Moreover, I have a passion for *digging*  *tricks* for ai research, such as ROS2 packages, ssh/waypipe and modern cpp.
+My research interest includes Robotics, Enbodied AI and Multimodal Learning, especially about unstructured environment autonomous driving. Moreover, I have a passion for open-source knowledge sharing, including ROS2 development with wsl2 & docker, ssh tricks with gui (X11 & wayland), and modern cpp.
 
+Personally, my hobbies include billiards, curling, CrossFire and games of Paradox (EU4, CK3 and so on) :)
 
 # 🔥 News
 - *2025.09*: &nbsp; Our paper LagMemo: Language 3D Gaussian Splatting Memory for Multi-modal Open-vocabulary Multi-goal Visual Navigation is under review of ICRA 2026;
