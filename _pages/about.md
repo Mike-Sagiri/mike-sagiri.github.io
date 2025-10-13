@@ -31,9 +31,9 @@ Personally, my hobbies include billiards, curling, CrossFire and games of Parado
 
 我的兴趣爱好有台球、冰壶、穿越火线和P社游戏。 :)
 </p>
-
+<span class='anchor' id='-news'></span>
 <h1 lang="en">🔥 News</h1>
-<h1 lang="zh">🔥 新闻 </h1> </span>
+<h1 lang="zh">🔥 新闻 </h1> 
 <p lang="en">
 - *2025.09*: &nbsp; Our paper LagMemo: Language 3D Gaussian Splatting Memory for Multi-modal Open-vocabulary Multi-goal Visual Navigation is under review of ICRA 2026;
 - *2025.07*: &nbsp; 🎉🎉 Graduate from <a href='https://eecs.pku.edu.cn/'>EECS (School of Electronics Engineering and Computer Science)</a>, as Outstanding Student of Beijing City and Peking University. For my interview by my school, please refer to: <a href='https://mp.weixin.qq.com/s/kEiWE6XRCrdcjhlvTSvj5w'> Wechat Public Platform </a>.
@@ -51,8 +51,9 @@ Personally, my hobbies include billiards, curling, CrossFire and games of Parado
 - *2023.2 - 2023.11*： &nbsp; 🎉🎉 参与2023 <a href='https://competition.igem.org/'>iGEM</a> 作为 <a href='http://2023.igem.wiki/peking'>Team Peking</a>的队员, 并赢得了 a **GOLD MEDAL**.
 </p>
 
+<span class='anchor' id='-publications'></span>
 <h1 lang="en"> 📝 Publications </h1>
-<h1 lang="zh"> 📝 论文 </span> </h1>
+<h1 lang="zh"> 📝 论文 </h1>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RAL</div><img src='images/papers/terrafusion.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -66,8 +67,10 @@ Hongze Li\*, Rui Xie\*, Haotian Zhou, **<u>Jianghuan Xu</u>**, Jun Zhou, Wugen Z
 </div>
 </div>
 
-
-# 🎖 Honors and Awards
+<span class='anchor' id='-honors-and-awards'></span>
+<h1 lang="en"> 🎖 Honors and Awards </h1>
+<h1 lang="zh"> 🎖 荣誉和奖项 </h1>
+<p lang="en">
 - *2025.06* **Outstanding Graduate of Beijing City**.
 - *2025.06* Outstanding Graduate of Peking University.
 - *2024.12* **National Scholarship**
@@ -79,7 +82,33 @@ Hongze Li\*, Rui Xie\*, Haotian Zhou, **<u>Jianghuan Xu</u>**, Jun Zhou, Wugen Z
 - *2023.06* The Third Prize of Peking University College Cup (挑战杯).
 - *2022.04* Peking University Freshman Scholarship, Second Prize. 
 
-# 📖 Educations
+</p>
+
+<p lang="zh">
+- *2025.06* **北京市优秀毕业生**
+- *2025.06* 北京大学优秀毕业生
+- *2024.12* **国家奖学金**
+- *2024.12* 北京大学三好学生标兵
+- *2024.04* 第一届北大杯冰壶冠军
+- *2023.11* Gold Medal of iGEM 2023.
+- *2023.10* 北京大学三好学生
+- *2023.10* 北京大学三等奖学金
+- *2023.06* 北京大学挑战杯三等奖
+- *2022.04* 北京大学新生校长二等奖学金
+
+</p>
+
+<span class='anchor' id='-educations'></span>
+<h1 lang="en"> 📖 Educations </h1>
+<h1 lang="zh"> 📖 教育经历 </h1>
+
+<p lang="en">
 - *2025.09 - (now)*, Graduate at School of Intelligence Science and Technology, Peking University.
 - *2021.09 - 2025.06*, Undergraduate at School of Electronics Engineering and Computer Science, Peking University. 
 - *2018.09 - 2021.06*, High School Student at Dongfeng High School, Shiyan City, Hubei Province, China.
+</p>
+
+<p lang="zh">
+- *2025.09 - (至今)*, 北京大学智能学院，硕士生。
+- *2021.09 - 2025.06*, 北京大学信息科学技术学院，本科生。
+- *2018.09 - 2021.06*, 湖北省十堰市东风高级中学，高中生。
