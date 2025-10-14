@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-<div lang="en">
+<div lang="en" markdown="1">
 I am a graduate student at <a href='https://sai.pku.edu.cn'> SIST (School of Intelligence Science and Technology) </a>, <a href='https://pku.edu.cn'>Peking University</a>, supervised by <a href='http://poss.pku.edu.cn'>Prof. Huijing Zhao</a>.
 
 My research interest includes Robotics, Enbodied AI and Multimodal Learning, especially about unstructured environment autonomous driving. Moreover, I have a passion for open-source knowledge sharing, including ROS2 development with wsl2 and docker, ssh tricks with gui (X11 and wayland), and modern cpp.
@@ -24,7 +24,7 @@ My research interest includes Robotics, Enbodied AI and Multimodal Learning, esp
 Personally, my hobbies include billiards, curling, CrossFire and games of Paradox (EU4, CK3 and so on) :)
 </div>
 
-<div lang="zh">
+<div lang="zh" markdown="1">
 
 我是<a href='https://pku.edu.cn'>北京大学</a><a href='https://sai.pku.edu.cn'> 智能学院 </a>的硕士研究生，导师为<a href='http://poss.pku.edu.cn'>赵卉菁教授</a>。
 
@@ -38,7 +38,7 @@ Personally, my hobbies include billiards, curling, CrossFire and games of Parado
 <h1 lang="en">🔥 News</h1>
 <h1 lang="zh">🔥 新闻 </h1> 
 
-<div lang="en">
+<div lang="en" markdown="1">
 
 - *2025.09*: &nbsp; Our paper LagMemo: Language 3D Gaussian Splatting Memory for Multi-modal Open-vocabulary Multi-goal Visual Navigation is under review of ICRA 2026;
 - *2025.07*: &nbsp; 🎉🎉 Graduate from <a href='https://eecs.pku.edu.cn/'>EECS (School of Electronics Engineering and Computer Science)</a>, as Outstanding Student of Beijing City and Peking University. For my interview by my school, please refer to: <a href='https://mp.weixin.qq.com/s/kEiWE6XRCrdcjhlvTSvj5w'> Wechat Public Platform </a>.
@@ -48,7 +48,7 @@ Personally, my hobbies include billiards, curling, CrossFire and games of Parado
 
 </div>
 
-<div lang="zh">
+<div lang="zh" markdown="1">
 
 - *2025.09*: &nbsp; 我参与的论文 LagMemo: Language 3D Gaussian Splatting Memory for Multi-modal Open-vocabulary Multi-goal Visual Navigation 投稿至 ICRA 2026;
 - *2025.07*: &nbsp; 🎉🎉 从 <a href='https://eecs.pku.edu.cn/'>北京大学信息科学技术学院</a>, 以北京市优秀毕业生、北京大学优秀毕业生的身份毕业。 学院对我的毕业采访：<a href='https://mp.weixin.qq.com/s/kEiWE6XRCrdcjhlvTSvj5w'> 大信科公众号：2025毕业生风采 </a>.
@@ -77,7 +77,7 @@ Hongze Li\*, Rui Xie\*, Haotian Zhou, **<u>Jianghuan Xu</u>**, Jun Zhou, Wugen Z
 <span class='anchor' id='-honors-and-awards'></span>
 <h1 lang="en"> 🎖 Honors and Awards </h1>
 <h1 lang="zh"> 🎖 荣誉和奖项 </h1>
-<div lang="en">
+<div lang="en" markdown="1">
 
 - *2025.06* **Outstanding Graduate of Beijing City**.
 - *2025.06* Outstanding Graduate of Peking University.
@@ -92,7 +92,7 @@ Hongze Li\*, Rui Xie\*, Haotian Zhou, **<u>Jianghuan Xu</u>**, Jun Zhou, Wugen Z
 
 </div>
 
-<div lang="zh">
+<div lang="zh" markdown="1">
 
 - *2025.06* **北京市优秀毕业生**
 - *2025.06* 北京大学优秀毕业生
@@ -111,7 +111,7 @@ Hongze Li\*, Rui Xie\*, Haotian Zhou, **<u>Jianghuan Xu</u>**, Jun Zhou, Wugen Z
 <h1 lang="en"> 📖 Educations </h1>
 <h1 lang="zh"> 📖 教育经历 </h1>
 
-<div lang="en">
+<div lang="en" markdown="1">
 
 - *2025.09 - (now)*, Graduate at School of Intelligence Science and Technology, Peking University.
 - *2021.09 - 2025.06*, Undergraduate at School of Electronics Engineering and Computer Science, Peking University. 
@@ -119,7 +119,7 @@ Hongze Li\*, Rui Xie\*, Haotian Zhou, **<u>Jianghuan Xu</u>**, Jun Zhou, Wugen Z
 
 </div>
 
-<div lang="zh">
+<div lang="zh" markdown="1">
 
 - *2025.09 - (至今)*, 北京大学智能学院，硕士生。
 - *2021.09 - 2025.06*, 北京大学信息科学技术学院，本科生。
