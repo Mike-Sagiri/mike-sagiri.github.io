@@ -50,7 +50,7 @@ Personally, my hobbies include billiards, curling, CrossFire and games of Parado
 
 <div lang="zh" markdown="1">
 
-- *2025.09*: &nbsp; 我参与的论文 LagMemo: Language 3D Gaussian Splatting Memory for Multi-modal Open-vocabulary Multi-goal Visual Navigation 投稿至 ICRA 2026;
+- *2025.09*: &nbsp; 我参与的论文 LagMemo: Language 3D Gaussian Splatting Memory for Multi-modal Open-vocabulary Multi-goal Visual Navigation 投稿至 ICRA 2026; 项目网站：<a href='https://weekgoodday.github.io/lagmemo/'>Lagmemo</a>
 - *2025.07*: &nbsp; 🎉🎉 从 <a href='https://eecs.pku.edu.cn/'>北京大学信息科学技术学院</a>, 以北京市优秀毕业生、北京大学优秀毕业生的身份毕业。 学院对我的毕业采访：<a href='https://mp.weixin.qq.com/s/kEiWE6XRCrdcjhlvTSvj5w'> 大信科公众号：2025毕业生风采 </a>.
 - *2025.06*: &nbsp;🎉🎉 我参与的论文 TerraFusion: Semi-Supervised Vision-Proprioception Fusion for Robust Terrain Classification 被RAL接收.
 - *2024.03*: &nbsp; 我参与的有关 <a href='https://github.com/weekgoodday/TCPOSS'>地表属性分类的分布外（OOD）问题</a>的论文 投稿至 IROS 2024. 论文： <a href='https://weekgoodday.github.io/files/IROS2024_Terrain_Classification.pdf'>Can Confidence Quantification Methods Work When Facing Real-world OOD Data in Terrain Classification?</a>.
