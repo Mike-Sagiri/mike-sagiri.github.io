@@ -7,11 +7,12 @@
         </button>
         <ul class="visible-links">
           <li class="masthead__menu-item masthead__menu-item--lg">
-            <div type="button" class="lang-toggle" data-lang-switcher aria-label="Switch language">
-              <a href="#about-me">
-                <span lang="en">中文</span>
-                <span lang="zh">EN</span>
-              </a>
+            <div class="lang-toggle">
+              <select id="masthead-lang" class="lang-toggle__select" data-lang-switcher aria-label="Select language">
+                <option value="en">English</option>
+                <option value="zh">中文</option>
+                <option value="ja">日本語</option>
+              </select>
             </div>
           </li>
           {% for link in site.data.navigation.main %}
@@ -19,6 +20,7 @@
             <a href="{{ domain }}{{ link.url }}">
               <span lang="en">{{ link.title.en | default: link.title }}</span>
               <span lang="zh">{{ link.title.zh | default: link.title }}</span>
+              <span lang="ja">{{ link.title.ja | default: link.title.en | default: link.title }}</span>
             </a>
           </li>
           {% endfor %}

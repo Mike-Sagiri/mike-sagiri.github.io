@@ -37,6 +37,7 @@ Personally, my hobbies include billiards, curling, CrossFire and games of Parado
 <span class='anchor' id='-news'></span>
 <h1 lang="en">🔥 News</h1>
 <h1 lang="zh">🔥 新闻 </h1> 
+<h1 lang="ja">🔥 ニュース </h1>
 
 <div lang="en" markdown="1">
 
@@ -61,6 +62,7 @@ Personally, my hobbies include billiards, curling, CrossFire and games of Parado
 <span class='anchor' id='-publications'></span>
 <h1 lang="en"> 📝 Publications </h1>
 <h1 lang="zh"> 📝 论文 </h1>
+<h1 lang="ja"> 📝 論文 </h1>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RAL</div><img src='images/papers/terrafusion.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -77,6 +79,8 @@ Hongze Li\*, Rui Xie\*, Haotian Zhou, **<u>Jianghuan Xu</u>**, Jun Zhou, Wugen Z
 <span class='anchor' id='-honors-and-awards'></span>
 <h1 lang="en"> 🎖 Honors and Awards </h1>
 <h1 lang="zh"> 🎖 荣誉和奖项 </h1>
+<h1 lang="ja"> 🎖 受賞歴 </h1>
+
 <div lang="en" markdown="1">
 
 - *2025.06* **Outstanding Graduate of Beijing City**.
@@ -110,6 +114,7 @@ Hongze Li\*, Rui Xie\*, Haotian Zhou, **<u>Jianghuan Xu</u>**, Jun Zhou, Wugen Z
 <span class='anchor' id='-educations'></span>
 <h1 lang="en"> 📖 Educations </h1>
 <h1 lang="zh"> 📖 教育经历 </h1>
+<h1 lang="ja"> 📖 学歴 </h1>
 
 <div lang="en" markdown="1">
 
