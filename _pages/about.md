@@ -34,6 +34,16 @@ Personally, my hobbies include billiards, curling, CrossFire and games of Parado
 
 </div>
 
+<div lang="ja" markdown="1">
+
+私は<a href='https://pku.edu.cn'>北京大学</a><a href='https://sai.pku.edu.cn'>知能科学技術学院（SIST）</a>の修士課程の学生で、指導教員は<a href='http://poss.pku.edu.cn'>趙卉菁教授</a>です。
+
+研究分野はロボティクス、エンボディドAI、多モーダル学習であり、とりわけ非構造環境での自律走行に注目しています。また、WSL2とDockerを用いたROS2開発、グラフィカルインターフェース（X11とWaylandを含む）でのSSH活用術、モダンC++など、オープンソースによる知識共有にも情熱を注いでいます。
+
+趣味はビリヤード、カーリング、CrossFire、そしてParadox社のゲーム（EU4、CK3など）です。 :)
+
+</div>
+
 <span class='anchor' id='-news'></span>
 <h1 lang="en">🔥 News</h1>
 <h1 lang="zh">🔥 新闻 </h1> 
@@ -56,6 +66,16 @@ Personally, my hobbies include billiards, curling, CrossFire and games of Parado
 - *2025.06*: &nbsp;🎉🎉 我参与的论文 TerraFusion: Semi-Supervised Vision-Proprioception Fusion for Robust Terrain Classification 被RAL接收.
 - *2024.03*: &nbsp; 我参与的有关 <a href='https://github.com/weekgoodday/TCPOSS'>地表属性分类的分布外（OOD）问题</a>的论文 投稿至 IROS 2024. 论文： <a href='https://weekgoodday.github.io/files/IROS2024_Terrain_Classification.pdf'>Can Confidence Quantification Methods Work When Facing Real-world OOD Data in Terrain Classification?</a>.
 - *2023.2 - 2023.11*： &nbsp; 🎉🎉 参与2023 <a href='https://competition.igem.org/'>iGEM</a> 作为 <a href='http://2023.igem.wiki/peking'>Team Peking</a>的队员, 并赢得了**GOLD MEDAL**.
+
+</div>
+
+<div lang="ja" markdown="1">
+
+- *2025.09*: &nbsp; 共著論文 LagMemo: Language 3D Gaussian Splatting Memory for Multi-modal Open-vocabulary Multi-goal Visual Navigation を ICRA 2026 に投稿しました。プロジェクトサイト：<a href='https://weekgoodday.github.io/lagmemo/'>Lagmemo</a>。
+- *2025.07*: &nbsp; 🎉🎉 <a href='https://eecs.pku.edu.cn/'>北京大学情報科学技术学院</a>を北京市優秀卒業生・北京大学優秀卒業生として卒業しました。学院の卒業インタビュー：<a href='https://mp.weixin.qq.com/s/kEiWE6XRCrdcjhlvTSvj5w'>大信科公式アカウント：2025卒業生特集</a>。
+- *2025.06*: &nbsp;🎉🎉 共著論文 TerraFusion: Semi-Supervised Vision-Proprioception Fusion for Robust Terrain Classification が RAL に採択されました。
+- *2024.03*: &nbsp; <a href='https://github.com/weekgoodday/TCPOSS'>地表属性分類におけるOOD課題</a>に関する研究を IROS 2024 に投稿しました。論文：<a href='https://weekgoodday.github.io/files/IROS2024_Terrain_Classification.pdf'>Can Confidence Quantification Methods Work When Facing Real-world OOD Data in Terrain Classification?</a>。
+- *2023.2 - 2023.11*： &nbsp; 🎉🎉 2023 年の <a href='https://competition.igem.org/'>iGEM</a> に <a href='http://2023.igem.wiki/peking'>Team Peking</a> の一員として参加し、**GOLD MEDAL** を受賞しました。
 
 </div>
 
@@ -111,6 +131,21 @@ Hongze Li\*, Rui Xie\*, Haotian Zhou, **<u>Jianghuan Xu</u>**, Jun Zhou, Wugen Z
 
 </div>
 
+<div lang="ja" markdown="1">
+
+- *2025.06* **北京市優秀卒業生**。
+- *2025.06* 北京大学優秀卒業生。
+- *2024.12* **国家奨学金**。
+- *2024.12* 北京大学三好学生標兵。
+- *2024.04* 第一回北大杯カーリング優勝。
+- *2023.11* iGEM 2023 ゴールドメダル。
+- *2023.10* 北京大学三好学生。
+- *2023.10* 北京大学三等奨学金。
+- *2023.06* 北京大学チャレンジカップ三等賞。
+- *2022.04* 北京大学新入生校長二等奨学金。
+
+</div>
+
 <span class='anchor' id='-educations'></span>
 <h1 lang="en"> 📖 Educations </h1>
 <h1 lang="zh"> 📖 教育经历 </h1>
@@ -129,5 +164,13 @@ Hongze Li\*, Rui Xie\*, Haotian Zhou, **<u>Jianghuan Xu</u>**, Jun Zhou, Wugen Z
 - *2025.09 - (至今)*, 北京大学智能学院，硕士生。
 - *2021.09 - 2025.06*, 北京大学信息科学技术学院，本科生。
 - *2018.09 - 2021.06*, 湖北省十堰市东风高级中学，高中生。
+
+</div>
+
+<div lang="ja" markdown="1">
+
+- *2025.09 - （現在）*, 北京大学知能科学技術学院、修士課程在籍。
+- *2021.09 - 2025.06*, 北京大学情報科学技術学院、学部課程修了。
+- *2018.09 - 2021.06*, 中国湖北省十堰市の東風高級中学校に在学。
 
 </div>
