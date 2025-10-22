@@ -10,6 +10,7 @@ title                    : "Jianghuan Xu | 许江环 | 許江環"
 description              : "Graduate student at SIST (School of Intelligence Science and Technology), Peking University"
 repository               : "Mike-Sagiri/mike-sagiri.github.io"
 description_zh           : "北京大学智能学院研究生"
+description_ja           : "北京大学知能科学技術学院の大学院生"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -25,6 +26,7 @@ author:
   name             : "Jianghuan Xu"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "许江环"
+  bio_ja           : "許江環"
   location         : "Beijing, China"
   employer         :
   pubmed           : 

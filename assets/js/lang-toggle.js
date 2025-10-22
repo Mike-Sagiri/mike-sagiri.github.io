@@ -1,7 +1,8 @@
 (function () {
   var storageKey = 'preferredLanguage';
-  var supported = ['en', 'zh'];
+  var supported = ['en', 'zh', 'ja'];
   var fallback = 'en';
+  var controls = [];
 
   function getSavedLanguage() {
     try {
@@ -28,24 +29,31 @@
     } catch (error) {
       // ignore
     }
+    syncControls(lang);
   }
 
-  function toggleLanguage() {
-    var current = document.documentElement.getAttribute('data-lang') || fallback;
-    var nextIndex = (supported.indexOf(current) + 1) % supported.length;
-    applyLanguage(supported[nextIndex]);
+  function syncControls(lang) {
+    for (var i = 0; i < controls.length; i++) {
+      if (controls[i].value !== lang) {
+        controls[i].value = lang;
+      }
+    }
   }
 
   function init() {
-    applyLanguage(getSavedLanguage());
+    controls = Array.prototype.slice.call(document.querySelectorAll('[data-lang-switcher]'));
 
-    document.addEventListener('click', function (event) {
-      var button = event.target.closest('[data-lang-switcher]');
-      if (!button) {
-        return;
-      }
-      event.preventDefault();
-      toggleLanguage();
+    var initial = getSavedLanguage();
+    applyLanguage(initial);
+
+    controls.forEach(function (control) {
+      control.addEventListener('change', function (event) {
+        var requested = event.target.value;
+        if (supported.indexOf(requested) === -1) {
+          requested = fallback;
+        }
+        applyLanguage(requested);
+      });
     });
   }
 

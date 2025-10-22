@@ -21,26 +21,45 @@
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
 
 <style>
-  html[data-lang="en"] [lang="zh"],
-  html[data-lang="zh"] [lang="en"] {
+  html[data-lang] [lang] {
     display: none;
   }
 
+  html[data-lang="en"] [lang="en"],
+  html[data-lang="zh"] [lang="zh"],
+  html[data-lang="ja"] [lang="ja"] {
+    display: initial;
+  }
+
   .lang-toggle {
-    /* display: inline-flex;
-    position: fixed;
-    right: 3.5rem;  */
     align-items: center;
     justify-content: center;
-    gap: 0.25rem;
-    /* border: 1px solid currentColor; */
     background: transparent;
-    border-radius: 4px;
-    padding: 0.3rem 0.6rem;
-    cursor: pointer;
-    font-size: 0.85rem;
-    width: 3rem;
+    padding: 0.3rem 0;
     display: flex;
+  }
+
+  .lang-toggle__select {
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    background: transparent;
+    border: 1px solid currentColor;
+    border-radius: 4px;
+    padding: 0.2rem 1.5rem 0.2rem 0.5rem;
+    font-size: 0.85rem;
+    color: inherit;
+    cursor: pointer;
+    line-height: 1.2;
+  }
+
+  .lang-toggle__select:focus {
+    outline: 2px solid currentColor;
+    outline-offset: 2px;
+  }
+
+  .lang-toggle__select::-ms-expand {
+    display: none;
   }
 </style>
 
