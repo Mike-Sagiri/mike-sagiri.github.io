@@ -29,5 +29,11 @@ main:
       en: "Educations"
       zh: "教育经历"
       ja: "学歴"
+  
+  - url: "/myblogs"
+    title:
+      en: "Blogs"
+      zh: "博客"
+      ja: "ブログ"
 
 
