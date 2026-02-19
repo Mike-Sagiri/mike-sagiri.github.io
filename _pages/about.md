@@ -21,7 +21,7 @@ I am a graduate student at <a href='https://sai.pku.edu.cn'> SIST (School of Int
 
 My research interest includes Robotics, Enbodied AI and Multimodal Learning, especially about unstructured environment autonomous driving. Moreover, I have a passion for open-source knowledge sharing, including ROS2 development with wsl2 and docker, ssh tricks with gui (X11 and wayland), and modern cpp.
 
-Personally, my hobbies include billiards, curling, CrossFire and games of Paradox (EU4, CK3 and so on) :)
+Personally, my hobbies include billiards🎱,skiing🏂, curling🥌,skating⛸, CrossFire and games of Paradox (EU4, CK3 and so on) :)
 </div>
 
 <div lang="zh" markdown="1">
@@ -30,7 +30,7 @@ Personally, my hobbies include billiards, curling, CrossFire and games of Parado
 
 我的研究领域包括机器人学、具身智能和多模态学习，尤其关注越野场景的自动驾驶。此外，我还热爱开源知识分享，包括使用wsl2和docker进行ros2开发、使用图形界面（包括X11和Wayland）的ssh技巧以及现代C++。
 
-我的兴趣爱好有台球、冰壶、穿越火线和P社游戏。 :)
+我的兴趣爱好有台球🎱、滑雪🏂（单双都会！但都只会一点点）、冰壶🥌、滑冰⛸、穿越火线和P社游戏。 :)
 
 </div>
 
@@ -40,7 +40,7 @@ Personally, my hobbies include billiards, curling, CrossFire and games of Parado
 
 研究分野はロボティクス、エンボディドAI、多モーダル学習であり、とりわけ非構造環境での自律走行に注目しています。また、WSL2とDockerを用いたROS2開発、グラフィカルインターフェース（X11とWaylandを含む）でのSSH活用術、モダンC++など、オープンソースによる知識共有にも情熱を注いでいます。
 
-趣味はビリヤード、カーリング、CrossFire、そしてParadox社のゲーム（EU4、CK3など）です。 :)
+趣味はビリヤード🎱、スキー🏂、カーリング🥌、スケート⛸、CrossFire、そしてParadox社のゲーム（EU4、CK3など）です。 :)
 
 </div>
 
@@ -51,6 +51,7 @@ Personally, my hobbies include billiards, curling, CrossFire and games of Parado
 
 <div lang="en" markdown="1">
 
+- *2025.11*: &nbsp; 🎉🎉 Found the curling team of the SIST, Peking University and serve as its first captain.
 - *2025.09*: &nbsp; Our paper LagMemo: Language 3D Gaussian Splatting Memory for Multi-modal Open-vocabulary Multi-goal Visual Navigation is under review of ICRA 2026; Project website: <a href='https://weekgoodday.github.io/lagmemo/'>Lagmemo</a>
 - *2025.07*: &nbsp; 🎉🎉 Graduate from <a href='https://eecs.pku.edu.cn/'>EECS (School of Electronics Engineering and Computer Science)</a>, as Outstanding Student of Beijing City and Peking University. For my interview by my school, please refer to: <a href='https://mp.weixin.qq.com/s/kEiWE6XRCrdcjhlvTSvj5w'> Wechat Public Platform </a>.
 - *2025.06*: &nbsp;🎉🎉 Our paper TerraFusion: Semi-Supervised Vision-Proprioception Fusion for Robust Terrain Classification has been accepted by RAL.
@@ -61,6 +62,7 @@ Personally, my hobbies include billiards, curling, CrossFire and games of Parado
 
 <div lang="zh" markdown="1">
 
+- *2025.11*: &nbsp; 我创建北京大学智能学院冰壶队，并担任第一任队长。
 - *2025.09*: &nbsp; 我参与的论文 LagMemo: Language 3D Gaussian Splatting Memory for Multi-modal Open-vocabulary Multi-goal Visual Navigation 投稿至 ICRA 2026; 项目网站：<a href='https://weekgoodday.github.io/lagmemo/'>Lagmemo</a>
 - *2025.07*: &nbsp; 🎉🎉 从 <a href='https://eecs.pku.edu.cn/'>北京大学信息科学技术学院</a>, 以北京市优秀毕业生、北京大学优秀毕业生的身份毕业。 学院对我的毕业采访：<a href='https://mp.weixin.qq.com/s/kEiWE6XRCrdcjhlvTSvj5w'> 大信科公众号：2025毕业生风采 </a>.
 - *2025.06*: &nbsp;🎉🎉 我参与的论文 TerraFusion: Semi-Supervised Vision-Proprioception Fusion for Robust Terrain Classification 被RAL接收.
@@ -71,6 +73,7 @@ Personally, my hobbies include billiards, curling, CrossFire and games of Parado
 
 <div lang="ja" markdown="1">
 
+- *2025.11*: &nbsp; 私は北京大学智能学院のカーリングチームを創設し、初代キャプテンを務めました。
 - *2025.09*: &nbsp; 共著論文 LagMemo: Language 3D Gaussian Splatting Memory for Multi-modal Open-vocabulary Multi-goal Visual Navigation を ICRA 2026 に投稿しました。プロジェクトサイト：<a href='https://weekgoodday.github.io/lagmemo/'>Lagmemo</a>。
 - *2025.07*: &nbsp; 🎉🎉 <a href='https://eecs.pku.edu.cn/'>北京大学情報科学技术学院</a>を北京市優秀卒業生・北京大学優秀卒業生として卒業しました。学院の卒業インタビュー：<a href='https://mp.weixin.qq.com/s/kEiWE6XRCrdcjhlvTSvj5w'>大信科公式アカウント：2025卒業生特集</a>。
 - *2025.06*: &nbsp;🎉🎉 共著論文 TerraFusion: Semi-Supervised Vision-Proprioception Fusion for Robust Terrain Classification が RAL に採択されました。
