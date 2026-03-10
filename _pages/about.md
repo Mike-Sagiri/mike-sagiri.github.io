@@ -19,7 +19,7 @@ redirect_from:
 <div lang="en" markdown="1">
 I am a graduate student at <a href='https://sai.pku.edu.cn'> SIST (School of Intelligence Science and Technology) </a>, <a href='https://pku.edu.cn'>Peking University</a>, supervised by <a href='http://poss.pku.edu.cn'>Prof. Huijing Zhao</a>.
 
-My research interest includes Robotics, Enbodied AI and Multimodal Learning, especially about unstructured environment autonomous driving. Moreover, I have a passion for open-source knowledge sharing, including ROS2 development with wsl2 and docker, ssh tricks with gui (X11 and wayland), and modern cpp.
+My research interest includes Robotics, Enbodied AI and Multimodal Learning, especially about unstructured environment autonomous driving. Moreover, I have a passion for open-source knowledge sharing, including ROS2 development, WSL2 and Docker , ssh gui technology (X11 and Wayland), cuda programming (TensorRT and Jetson series) and modern cpp language.
 
 Personally, my hobbies include billiards🎱,skiing🏂, curling🥌,skating⛸, CrossFire and games of Paradox (EU4, CK3 and so on) :)
 </div>
@@ -28,7 +28,7 @@ Personally, my hobbies include billiards🎱,skiing🏂, curling🥌,skating⛸,
 
 我是<a href='https://pku.edu.cn'>北京大学</a><a href='https://sai.pku.edu.cn'> 智能学院 </a>的硕士研究生，导师为<a href='http://poss.pku.edu.cn'>赵卉菁教授</a>。
 
-我的研究领域包括机器人学、具身智能和多模态学习，尤其关注越野场景的自动驾驶。此外，我还热爱开源知识分享，包括使用wsl2和docker进行ros2开发、使用图形界面（包括X11和Wayland）的ssh技巧以及现代C++。
+我的研究领域包括机器人学、具身智能和多模态学习，尤其关注越野场景的自动驾驶。此外，我还热爱开源知识分享，Ros2开发、WSL2和Docker、SSH图形化技术（X11和Wayland）、Cuda编程（TensorRT技术和Jetson系列）以及现代C++语言。
 
 我的兴趣爱好有台球🎱、滑雪🏂（单双都会！但都只会一点点）、冰壶🥌、滑冰⛸、穿越火线和P社游戏。 :)
 
@@ -38,7 +38,7 @@ Personally, my hobbies include billiards🎱,skiing🏂, curling🥌,skating⛸,
 
 私は<a href='https://pku.edu.cn'>北京大学</a><a href='https://sai.pku.edu.cn'>知能科学技術学院（SIST）</a>の修士課程の学生で、指導教員は<a href='http://poss.pku.edu.cn'>趙卉菁教授</a>です。
 
-研究分野はロボティクス、エンボディドAI、多モーダル学習であり、とりわけ非構造環境での自律走行に注目しています。また、WSL2とDockerを用いたROS2開発、グラフィカルインターフェース（X11とWaylandを含む）でのSSH活用術、モダンC++など、オープンソースによる知識共有にも情熱を注いでいます。
+研究分野はロボティクス、エンボディドAI、多モーダル学習であり、とりわけ非構造環境での自律走行に注目しています。また、ROS2開発、WSL2とDocker、グラフィカルインターフェース（X11とWaylandを含む）でのSSH技術、モダンC++など、オープンソースによる知識共有にも情熱を注いでいます。
 
 趣味はビリヤード🎱、スキー🏂、カーリング🥌、スケート⛸、CrossFire、そしてParadox社のゲーム（EU4、CK3など）です。 :)
 
