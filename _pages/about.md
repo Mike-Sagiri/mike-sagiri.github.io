@@ -149,6 +149,44 @@ Hongze Li\*, Rui Xie\*, Haotian Zhou, **<u>Jianghuan Xu</u>**, Jun Zhou, Wugen Z
 
 </div>
 
+<span class='anchor' id='-languages'></span>
+<h1 lang="en"> 🌐 Languages </h1>
+<h1 lang="zh"> 🌐 语言能力 </h1>
+<h1 lang="ja"> 🌐 言語 </h1>
+
+<div lang="en" markdown="1">
+
+- *Chinese*: &nbsp; Native.
+- *English*: &nbsp; Fluent (CET-6 616).
+- *Japanese*: &nbsp; Intermediate (JLPT N2).
+- *Vietnamese*: &nbsp; Basic conversational.
+- *French*: &nbsp; Limited reading knowledge.
+
+_Open to language exchange: happy to help with Chinese in exchange for practicing Japanese with native speakers. (Just Email to Me!)_
+</div>
+
+<div lang="zh" markdown="1">
+
+- *中文*: &nbsp; 母语。
+- *英语*: &nbsp; 流利 (CET-6 616)。
+- *日语*: &nbsp; 中级 (JLPT N2)。
+- *越南语*: &nbsp; 基础对话。
+- *法语*: &nbsp; 有限基础阅读能力。
+
+_欢迎日语母语者一起进行语言交换：我可以帮你练习中文，也希望提升自己的日语。 (给我发邮件吧~)_
+</div>
+
+<div lang="ja" markdown="1">
+
+- *中国語*: &nbsp; ネイティブ。
+- *英語*: &nbsp; 流暢 (CET-6 616)。
+- *日本語*: &nbsp; 中級 (JLPT N2)。
+- *ベトナム語*: &nbsp; 日常会話レベル（初級）。
+- *フランス語*: &nbsp; 読解基礎（限定的）。
+
+_言語交換歓迎：日本語ネイティブの方と中国語と日本語の練習ができたら嬉しいです。（メールでぜひご連絡ください！）_
+</div>
+
 <span class='anchor' id='-educations'></span>
 <h1 lang="en"> 📖 Educations </h1>
 <h1 lang="zh"> 📖 教育经历 </h1>
