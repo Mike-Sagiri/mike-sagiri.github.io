@@ -51,6 +51,9 @@ Personally, my hobbies include billiards🎱,skiing🏂, curling🥌,skating⛸,
 
 <div lang="en" markdown="1">
 
+- *2026.06*: &nbsp;🎉🎉 Our paper TerraEDL: Uncertainty-Aware Multi-Modal Terrain Classification via Evidential Deep Learning has been accepted by IROS26.
+- *2026.06*: &nbsp;🎉🎉 Our paper TerraAlign: Language-Supervised Alignment of Vision and Proprioception for Multi-Grained Terrain Classification has been accepted by IROS26.
+- *2026.06*: &nbsp;🎉🎉 Our paper LagMemo: Language 3D Gaussian Splatting Memory for Multi-modal Open-vocabulary Multi-goal Visual Navigation has been accepted by IROS26.
 - *2025.11*: &nbsp; 🎉🎉 Found the curling team of the SIST, Peking University and serve as its first captain.
 - *2025.09*: &nbsp; Our paper LagMemo: Language 3D Gaussian Splatting Memory for Multi-modal Open-vocabulary Multi-goal Visual Navigation is under review of ICRA 2026; Project website: <a href='https://weekgoodday.github.io/lagmemo/'>Lagmemo</a>
 - *2025.07*: &nbsp; 🎉🎉 Graduate from <a href='https://eecs.pku.edu.cn/'>EECS (School of Electronics Engineering and Computer Science)</a>, as Outstanding Student of Beijing City and Peking University. For my interview by my school, please refer to: <a href='https://mp.weixin.qq.com/s/kEiWE6XRCrdcjhlvTSvj5w'> Wechat Public Platform </a>.
@@ -62,6 +65,9 @@ Personally, my hobbies include billiards🎱,skiing🏂, curling🥌,skating⛸,
 
 <div lang="zh" markdown="1">
 
+- *2026.06*: &nbsp;🎉🎉 我参与的论文 TerraEDL: Uncertainty-Aware Multi-Modal Terrain Classification via Evidential Deep Learning 被IROS26接收.
+- *2026.06*: &nbsp;🎉🎉 我参与的论文 TerraAlign: Language-Supervised Alignment of Vision and Proprioception for Multi-Grained Terrain Classification 被IROS26接收.
+- *2026.06*: &nbsp;🎉🎉 我参与的论文 LagMemo: Language 3D Gaussian Splatting Memory for Multi-modal Open-vocabulary Multi-goal Visual Navigation 被IROS26接收.
 - *2025.11*: &nbsp; 我创建北京大学智能学院冰壶队，并担任第一任队长。
 - *2025.09*: &nbsp; 我参与的论文 LagMemo: Language 3D Gaussian Splatting Memory for Multi-modal Open-vocabulary Multi-goal Visual Navigation 投稿至 ICRA 2026; 项目网站：<a href='https://weekgoodday.github.io/lagmemo/'>Lagmemo</a>
 - *2025.07*: &nbsp; 🎉🎉 从 <a href='https://eecs.pku.edu.cn/'>北京大学信息科学技术学院</a>, 以北京市优秀毕业生、北京大学优秀毕业生的身份毕业。 学院对我的毕业采访：<a href='https://mp.weixin.qq.com/s/kEiWE6XRCrdcjhlvTSvj5w'> 大信科公众号：2025毕业生风采 </a>.
@@ -73,6 +79,9 @@ Personally, my hobbies include billiards🎱,skiing🏂, curling🥌,skating⛸,
 
 <div lang="ja" markdown="1">
 
+- *2025.06*: &nbsp;🎉🎉 共著論文 TerraEDL: Uncertainty-Aware Multi-Modal Terrain Classification via Evidential Deep Learning が IROS26 に採択されました。
+- *2025.06*: &nbsp;🎉🎉 共著論文 TerraAlign: Language-Supervised Alignment of Vision and Proprioception for Multi-Grained Terrain Classification が IROS26 に採択されました。
+- *2025.06*: &nbsp;🎉🎉 共著論文 LagMemo: Language 3D Gaussian Splatting Memory for Multi-modal Open-vocabulary Multi-goal Visual Navigation が IROS26 に採択されました。
 - *2025.11*: &nbsp; 私は北京大学智能学院のカーリングチームを創設し、初代キャプテンを務めました。
 - *2025.09*: &nbsp; 共著論文 LagMemo: Language 3D Gaussian Splatting Memory for Multi-modal Open-vocabulary Multi-goal Visual Navigation を ICRA 2026 に投稿しました。プロジェクトサイト：<a href='https://weekgoodday.github.io/lagmemo/'>Lagmemo</a>。
 - *2025.07*: &nbsp; 🎉🎉 <a href='https://eecs.pku.edu.cn/'>北京大学情報科学技术学院</a>を北京市優秀卒業生・北京大学優秀卒業生として卒業しました。学院の卒業インタビュー：<a href='https://mp.weixin.qq.com/s/kEiWE6XRCrdcjhlvTSvj5w'>大信科公式アカウント：2025卒業生特集</a>。
@@ -87,6 +96,36 @@ Personally, my hobbies include billiards🎱,skiing🏂, curling🥌,skating⛸,
 <h1 lang="zh"> 📝 论文 </h1>
 <h1 lang="ja"> 📝 論文 </h1>
 
+
+<!-- TerraEDL -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS26</div><img src='images/papers/terraedl.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<!-- [	TerraEDL: Uncertainty-Aware Multi-Modal Terrain Classification via Evidential Deep Learning  ](https://ieeexplore.ieee.org/abstract/document/11184124) -->
+
+TerraEDL: Uncertainty-Aware Multi-Modal Terrain Classification via Evidential Deep Learning  
+
+**<u>Jianghuan Xu\*</u>**, Hongze Li, Huijing Zhao
+
+<!-- Lagmemo -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS26</div><img src='images/papers/lagmemo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<!-- [LagMemo: Language 3D Gaussian Splatting Memory for Multi-modal Open-vocabulary Multi-goal Visual Navigation ](https://ieeexplore.ieee.org/abstract/document/11184124) -->
+LagMemo: Language 3D Gaussian Splatting Memory for Multi-modal Open-vocabulary Multi-goal Visual Navigation 
+
+Haotian Zhou\*, Xiaole Wang, He Li, **<u>Jianghuan Xu</u>**, Zhuo Qi, Jinrun Yin, Haiyu Kong, Huijing Zhao
+
+<!-- TerraAlign -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS26</div><img src='images/papers/terraalign.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<!-- [TerraAlign: Language-Supervised Alignment of Vision and Proprioception for Multi-Grained Terrain Classification](https://ieeexplore.ieee.org/abstract/document/11184124) -->
+TerraAlign: Language-Supervised Alignment of Vision and Proprioception for Multi-Grained Terrain Classification
+
+Hongze Li\*, Tianyuan Gao, Zihang Suo, Zuohong Liu, **<u>Jianghuan Xu</u>**, Huijing Zhao
+
+<!-- TerraFusion -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RAL</div><img src='images/papers/terrafusion.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
