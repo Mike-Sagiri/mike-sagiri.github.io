@@ -110,12 +110,14 @@ TerraEDL: Uncertainty-Aware Multi-Modal Terrain Classification via Evidential De
 <!-- Lagmemo -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS26</div><img src='images/papers/lagmemo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
+</div>
+</div>
 <!-- [LagMemo: Language 3D Gaussian Splatting Memory for Multi-modal Open-vocabulary Multi-goal Visual Navigation ](https://ieeexplore.ieee.org/abstract/document/11184124) -->
 LagMemo: Language 3D Gaussian Splatting Memory for Multi-modal Open-vocabulary Multi-goal Visual Navigation 
 
 Haotian Zhou\*, Xiaole Wang, He Li, **<u>Jianghuan Xu</u>**, Zhuo Qi, Jinrun Yin, Haiyu Kong, Huijing Zhao
-
+</div>
+</div>
 <!-- TerraAlign -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS26</div><img src='images/papers/terraalign.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
