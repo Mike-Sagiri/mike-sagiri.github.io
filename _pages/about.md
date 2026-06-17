@@ -105,7 +105,7 @@ Personally, my hobbies include billiards🎱,skiing🏂, curling🥌,skating⛸,
 
 TerraEDL: Uncertainty-Aware Multi-Modal Terrain Classification via Evidential Deep Learning  
 
-**<u>Jianghuan Xu\*</u>**, Hongze Li, Huijing Zhao
+**<u>Jianghuan Xu*</u>**, Hongze Li, Huijing Zhao
 </div>
 </div>
 <!-- Lagmemo -->
