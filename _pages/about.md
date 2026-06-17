@@ -106,7 +106,8 @@ Personally, my hobbies include billiards🎱,skiing🏂, curling🥌,skating⛸,
 TerraEDL: Uncertainty-Aware Multi-Modal Terrain Classification via Evidential Deep Learning  
 
 **<u>Jianghuan Xu\*</u>**, Hongze Li, Huijing Zhao
-
+</div>
+</div>
 <!-- Lagmemo -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS26</div><img src='images/papers/lagmemo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -115,7 +116,8 @@ TerraEDL: Uncertainty-Aware Multi-Modal Terrain Classification via Evidential De
 LagMemo: Language 3D Gaussian Splatting Memory for Multi-modal Open-vocabulary Multi-goal Visual Navigation 
 
 Haotian Zhou\*, Xiaole Wang, He Li, **<u>Jianghuan Xu</u>**, Zhuo Qi, Jinrun Yin, Haiyu Kong, Huijing Zhao
-
+</div>
+</div>
 <!-- TerraAlign -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS26</div><img src='images/papers/terraalign.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -124,7 +126,8 @@ Haotian Zhou\*, Xiaole Wang, He Li, **<u>Jianghuan Xu</u>**, Zhuo Qi, Jinrun Yin
 TerraAlign: Language-Supervised Alignment of Vision and Proprioception for Multi-Grained Terrain Classification
 
 Hongze Li\*, Tianyuan Gao, Zihang Suo, Zuohong Liu, **<u>Jianghuan Xu</u>**, Huijing Zhao
-
+</div>
+</div>
 <!-- TerraFusion -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RAL</div><img src='images/papers/terrafusion.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
