@@ -79,9 +79,9 @@ Personally, my hobbies include billiards🎱,skiing🏂, curling🥌,skating⛸,
 
 <div lang="ja" markdown="1">
 
-- *2025.06*: &nbsp;🎉🎉 共著論文 TerraEDL: Uncertainty-Aware Multi-Modal Terrain Classification via Evidential Deep Learning が IROS26 に採択されました。
-- *2025.06*: &nbsp;🎉🎉 共著論文 TerraAlign: Language-Supervised Alignment of Vision and Proprioception for Multi-Grained Terrain Classification が IROS26 に採択されました。
-- *2025.06*: &nbsp;🎉🎉 共著論文 LagMemo: Language 3D Gaussian Splatting Memory for Multi-modal Open-vocabulary Multi-goal Visual Navigation が IROS26 に採択されました。
+- *2026.06*: &nbsp;🎉🎉 共著論文 TerraEDL: Uncertainty-Aware Multi-Modal Terrain Classification via Evidential Deep Learning が IROS26 に採択されました。
+- *2026.06*: &nbsp;🎉🎉 共著論文 TerraAlign: Language-Supervised Alignment of Vision and Proprioception for Multi-Grained Terrain Classification が IROS26 に採択されました。
+- *2026.06*: &nbsp;🎉🎉 共著論文 LagMemo: Language 3D Gaussian Splatting Memory for Multi-modal Open-vocabulary Multi-goal Visual Navigation が IROS26 に採択されました。
 - *2025.11*: &nbsp; 私は北京大学智能学院のカーリングチームを創設し、初代キャプテンを務めました。
 - *2025.09*: &nbsp; 共著論文 LagMemo: Language 3D Gaussian Splatting Memory for Multi-modal Open-vocabulary Multi-goal Visual Navigation を ICRA 2026 に投稿しました。プロジェクトサイト：<a href='https://weekgoodday.github.io/lagmemo/'>Lagmemo</a>。
 - *2025.07*: &nbsp; 🎉🎉 <a href='https://eecs.pku.edu.cn/'>北京大学情報科学技术学院</a>を北京市優秀卒業生・北京大学優秀卒業生として卒業しました。学院の卒業インタビュー：<a href='https://mp.weixin.qq.com/s/kEiWE6XRCrdcjhlvTSvj5w'>大信科公式アカウント：2025卒業生特集</a>。
