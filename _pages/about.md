@@ -103,7 +103,7 @@ Personally, my hobbies include billiards🎱,skiing🏂, curling🥌,skating⛸,
 
 <!-- [	TerraEDL: Uncertainty-Aware Multi-Modal Terrain Classification via Evidential Deep Learning  ](https://ieeexplore.ieee.org/abstract/document/11184124) -->
 
-TerraEDL: Uncertainty-Aware Multi-Modal Terrain Classification via Evidential Deep Learning  
+[TerraEDL: Uncertainty-Aware Multi-Modal Terrain Classification via Evidential Deep Learning](http://poss.pku.edu.cn/Data/TerraEDL_final_submission.pdf)  
 
 **<u>Jianghuan Xu*</u>**, Hongze Li, Huijing Zhao
 </div>
